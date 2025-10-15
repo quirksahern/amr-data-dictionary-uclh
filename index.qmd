@@ -14,6 +14,8 @@ Metadata for data files
 
 -   I'm going to add a line of text
 
+-   chnage new
+
 Making an online change
 
 ```{r}
